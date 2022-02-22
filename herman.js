@@ -724,7 +724,7 @@ daftar = `Halo ka ${pushname}
 • 🛒List Harga Sewa Botz🛒
 💰 3k 1minggu
 💰 5k permanen
-minat ? Hubungi Owner Ketik #owner 
+minat ? Hubungi Owner wa.me/6283146208804 
 ━━━━━ • ஜ • ❈ • ஜ • ━━━━━
 `
 herman.sendMessage(from, daftar, text, {quoted: ftrol})
